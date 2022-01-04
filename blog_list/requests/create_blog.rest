@@ -1,0 +1,10 @@
+post http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hbGVrIiwiaWQiOiI2MTcyYjZlMzkyOThhZDhhYWIyNGU0NDUiLCJpYXQiOjE2MzQ5MTc2OTl9.sO0bzfi7xNtZchzhij-SoGWPZ2L6gU1EIjcbdhh57Zs
+
+{
+  "title": "another oneeeeee",
+  "url": "lool",
+  "author": "me",
+  "likes": 96
+}
